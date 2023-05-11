@@ -1,5 +1,6 @@
 const btConsultar = document.querySelector("#btConsultar");
 
+
 const consultaEndereco = () => {
 
     let cep = document.getElementById("cep").value;
